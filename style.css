@@ -22,3 +22,17 @@ h1{
     text-align: center;
 
 }
+
+.letra_agrandada{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+p{
+    font-size: 20px;
+    font-family: sans-serif;
+}
+
+h3{
+    font-size: 30px;
+}
