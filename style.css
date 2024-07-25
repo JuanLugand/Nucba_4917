@@ -1,0 +1,18 @@
+h1{
+    text-decoration: underline;
+}
+
+.primer-contenedor{
+    margin: auto;
+    text-align: center;
+}
+
+.primer-contenedor ul li{
+    list-style-type: none;
+}
+
+.segundo-contenedor{
+    margin: auto;
+    text-align: center;
+
+}
