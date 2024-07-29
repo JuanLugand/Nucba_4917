@@ -9,6 +9,7 @@ background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/s
 }
 h1{
     text-decoration: underline;
+    margin-top: 20px;
 }
 
 .primer-contenedor{
@@ -34,8 +35,33 @@ h1{
 p{
     font-size: 20px;
     font-family: sans-serif;
+    margin: 20px 0px;
 }
 
 h3{
     font-size: 30px;
+    margin: 20px 0px;
+}
+.primer-subtitulo{
+
+    margin: 10px 0px;
+
+}
+
+.segundo-subtitulo{
+    margin: 10px 0px;
+}
+
+.mifoto{
+    margin: 30px 0px 30px;
+    border-radius: 50px;
+}
+
+.formulario-titulo{
+    margin: 20px 0px;
+    
+}
+
+span{
+    font-weight: 900;
 }
